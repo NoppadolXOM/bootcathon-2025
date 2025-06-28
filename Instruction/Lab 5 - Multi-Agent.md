@@ -211,7 +211,7 @@ Final step: Try chat with following questions:
 
 If you're using gpt-4.1 or other compartible to it, unfortunately, you will get only the link to chart image like below image.
 
-![Lab5](./img/Lab5-3.png)
+![Lab5](./img/IMG_8287.png)
 
 If your using chat model that is able to generate an image like gpt-4o or better chat model, you can try asking with mesasge like "List number of tracks in each album, generate a bar chart". You will see chart image display in the response.
 
