@@ -33,6 +33,17 @@ This repository contains hands-on labs for learning how to build AI-powered work
 1. Follow **Lab 0** to install n8n.
 2. Open each lab's markdown file in the `Instruction` folder for step-by-step guidance.
 3. Use the provided sample data and prompts to test your workflows.
+4. Temporary OpenAI API key :
+
+```
+Resource name: GenAI-AzureOpenAI-WUS
+Endpoint: https://genai-azureopenai-wus.openai.azure.com/
+API Key: cb031efa70994e3c8a44de1eaf6f202b
+api_version: 2024-12-01-preview
+Deployment model: gpt-4.1
+```
+  
+
 
 ---
 
