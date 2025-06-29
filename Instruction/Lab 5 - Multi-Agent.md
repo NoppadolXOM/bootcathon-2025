@@ -209,11 +209,11 @@ Final step: Try chat with following questions:
 - "List number of track in each album" - This should run only SQL Agent as the input is not asking for generating chart
 - "List number of tracks in each album, generate a bar chart and provide clickable link to the image" - This should also call chart generator agent to generate chart
 
-If you're using gpt-4.1 or other compartible to it, unfortunately, you will get only the link to chart image like below image.
+If you're using gpt-4.1 or other compartible to it, unfortunately, you will get only the link to chart image like below image. The reason is the model does not have image input/output capabilities.
 
 ![Lab5](./img/IMG_8287.png)
 
-If your using chat model that is able to generate an image like gpt-4o or better chat model, you can try asking with mesasge like "List number of tracks in each album, generate a bar chart". You will see chart image display in the response.
+If your using chat model that supports image input/output capabilities like gpt-4o or better chat model, you can try asking with mesasge like "List number of tracks in each album, generate a bar chart". You will see chart image display in the response.
 
 ![Lab5](./img/Lab5-2.png)
 
